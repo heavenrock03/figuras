@@ -1,7 +1,7 @@
 from math import *
 class coordenada():
     def __init__(self):
-        self.x=0
+        self.x=0 #x, y, son dos objetos de la clase coordenada#
         self.y=0
         
     def distancia(self,coordenada):
